@@ -15,14 +15,17 @@ const splitsElement = document.getElementById('splits');
 
 function printTime() {
   // ... your code goes here
+  return splitsElement;
 }
 
 function printMinutes() {
   // ... your code goes here
+  return minUniElement;
 }
 
 function printSeconds() {
   // ... your code goes here
+  return
 }
 
 // ==> BONUS
